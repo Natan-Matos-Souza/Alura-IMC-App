@@ -1,0 +1,19 @@
+{
+    "name": "natan/tests",
+    "autoload": {
+        "psr-4": {
+            "Natan\\Tests\\": "src/"
+        },
+        "files": [
+            "app/functions/findPage.php",
+            "app/functions/calculateIMC.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Natan Matos",
+            "email": "natanmatos_18@hotmail.com"
+        }
+    ],
+    "require": {}
+}
